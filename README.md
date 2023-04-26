@@ -1,8 +1,7 @@
 ### Hi there 👋
-<p>
-<a href="https://github.com/madicnikola"><picture><source height="30px" media="(prefers-color-scheme: dark)" srcset="https://i.ibb.co/dMMmCrW/Git-Hub-Mark.png"><img height="30px" src="https://i.ibb.co/9wV3HGF/Git-Hub-Mark-Light.png"></picture></a>
-<a href="https://www.linkedin.com/in/madicnikola"><picture><source height="30px" media="(prefers-color-scheme: dark)" srcset="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg"><img height="30px" src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg"></picture></a>
-</p>
+<p align="left">
+<a href="https://github.com/madicnikola"><picture><source height="30px" media="(prefers-color-scheme: dark)" srcset="https://i.ibb.co/dMMmCrW/Git-Hub-Mark.png"><img height="30px" src="https://i.ibb.co/9wV3HGF/Git-Hub-Mark-Light.png"></picture></a>&nbsp;&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/madicnikola"><picture><source height="30px" media="(prefers-color-scheme: dark)" srcset="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg"><img height="30px" src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg"></picture></a>&nbsp;&nbsp;&nbsp;
 
 ## 💻 Working environment
 [![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)](https://ubuntu.com/)
